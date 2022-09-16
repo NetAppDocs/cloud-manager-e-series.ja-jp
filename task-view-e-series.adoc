@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: Eシリーズシステムを検出すると、容量の配分、ボリューム、およびホストに関する詳細を確認できます。 
+---
+= Eシリーズシステムを表示します
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+Eシリーズシステムを検出すると、容量の配分、ボリューム、およびホストに関する詳細を確認できます。
+
+.手順
+. キャンバスで、表示するEシリーズ作業環境の名前をダブルクリックします。
+. いずれかのタブを選択すると、Eシリーズシステムに関する詳細が表示されます。
++
+** *概要*：システムの容量分布（割り当て済み、空き、未割り当ての容量）、ボリューム数、ホスト数などの詳細情報。
++
+image:screenshot-overview.png["Eシリーズの作業環境の概要タブのスクリーンショット。"]
+
+** *ボリューム*：割り当て、RAIDレベル、割り当て済み容量など、システム上のボリュームの詳細。
++
+image:screenshot-volumes.png["Eシリーズの作業環境のボリュームタブのスクリーンショット。"]
+
+** * Hosts *：ストレージ・システム上のボリュームにI/Oを送信しているホストの詳細
++
+image:screenshot-hosts.png["Eシリーズの作業環境のHosts（ホスト）タブのスクリーンショット。"]
+
+
+
+

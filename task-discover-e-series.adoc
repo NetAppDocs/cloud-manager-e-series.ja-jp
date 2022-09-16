@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: task-discover-e-series.html 
+keywords: e-series, cluster, discover, manage, discovering, discover e-series 
+summary: Cloud Managerは、オンプレミス環境でEシリーズストレージシステムを検出できます。Cloud ManagerにEシリーズシステムを追加すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。 
+---
+= Eシリーズストレージシステムを検出
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+Cloud Managerは、オンプレミス環境でEシリーズストレージシステムを検出できます。Cloud ManagerにEシリーズシステムを追加すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。
+
+.必要なもの
+* クラウドプロバイダまたはオンプレミスにインストールされ、Eシリーズストレージシステムへのネットワーク接続を備えたコネクタ。
++
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタの詳細と、コネクタの作成方法について説明します"^]
+
+* ストレージシステムコントローラのドメイン名またはIPアドレス。
+* システムのadminクレデンシャル。
+
+
+.手順
+. キャンバスで、*作業環境の追加*をクリックし、*オンプレミス*を選択します。
+. [* E-Series *（Eシリーズ*）]を選択し、[* Next（次へ）]をクリックし
+. プロンプトが表示されたら、コネクタを作成します。
++
+詳細については、上のリンクを参照してください。
+
+. _E-Series Cluster Details_pageで、ストレージシステムコントローラのドメイン名またはIPアドレス、システムのadminクレデンシャルを入力し、* Add *をクリックします。
++
+image:screenshot-cluster-details.png["Eシリーズのクラスタの詳細ページを示すスクリーンショット。ドメイン名またはIPアドレス、および管理者ユーザ名とパスワードを入力するよう求められます。"]
+
+
+
+Cloud ManagerはEシリーズストレージシステムを検出し、キャンバスに作業環境として追加します。
+
+image:screenshot-canvas.png["Cloud Manager Canvas上のEシリーズ作業環境を示すスクリーンショット。"]

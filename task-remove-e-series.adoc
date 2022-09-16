@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task-remove-e-series.html 
+keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment 
+summary: Eシリーズ作業環境をCloud Managerで管理する必要がなくなった場合は、その作業環境を削除します。 
+---
+= Eシリーズ作業環境を削除
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Eシリーズ作業環境をCloud Managerで管理する必要がなくなった場合は、その作業環境を削除します。
+
+作業環境を削除しても、Eシリーズシステムには影響しません。作業環境は、 Cloud Manager からいつでも再検出できます。
+
+.手順
+. キャンバスで、Eシリーズ作業環境の名前をダブルクリックします。
+. メニューアイコンをクリックし、*ワークスペースから削除*を選択します。
++
+image:screenshot-remove.png["作業環境の右上にある[ワークスペースから削除]オプションのスクリーンショット。"]
+
+. [ 削除（ Remove ） ] をクリックして確定します。
+

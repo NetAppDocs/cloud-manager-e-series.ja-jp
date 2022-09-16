@@ -1,0 +1,62 @@
+---
+settings:
+  name: E-Series
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ja-jp,us-en,zh-cn,zh-tw,ko-kr
+sidebar:
+  entries:
+  - title: Eシリーズのドキュメント
+    url: "/index.html"
+  - title: リリースノート
+    url: "/whats-new.html"
+  - title: はじめに
+    entries:
+    - title: Eシリーズシステムの詳細をご確認ください
+      url: "/task-discover-e-series.html"
+  - title: Eシリーズクラスタを管理
+    entries:
+    - title: Eシリーズシステムを表示します
+      url: "/task-view-e-series.html"
+    - title: Eシリーズを削除
+      url: "/task-remove-e-series.html"
+  - title: 知識とサポート
+    entries:
+    - title: サポートに登録します
+      url: "/task-support-registration.html"
+    - title: ヘルプを表示します
+      url: "/task-get-help.html"
+  - title: 法的通知
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: はじめに
+    links:
+    - title: Eシリーズシステムの詳細をご確認ください
+      url: "/task-discover-e-series.html"
+  - title: Eシリーズシステムを管理
+    links:
+    - title: Eシリーズシステムを表示します
+      url: "/task-view-e-series.html"
+    - title: Eシリーズを削除
+      url: "/task-remove-e-series.html"
+  - title: 関連リンク
+    links:
+    - title: Cloud Manager以外で管理するためのEシリーズのドキュメント
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: ブログコミュニティ
+    links:
+    - title: ネットアップコミュニティ
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Cloud Central のブログです
+      url: https://cloud.netapp.com/blog
+    - title: クラウドに関する Web セミナー
+      url: https://cloud.netapp.com/events
+product-family:
+  name: Cloud Manager
+  repo: cloud-manager-family
+  sidebar_label: All Cloud Manager documentation
