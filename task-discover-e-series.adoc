@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: Cloud Managerは、オンプレミス環境でEシリーズストレージシステムを検出できます。Cloud ManagerにEシリーズシステムを追加すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。 
+summary: BlueXPでは、オンプレミス環境でEシリーズストレージシステムを検出できます。BlueXPにEシリーズシステムを追加することで、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。 
 ---
 = Eシリーズストレージシステムを検出
 :hardbreaks:
@@ -13,7 +13,7 @@ summary: Cloud Managerは、オンプレミス環境でEシリーズストレー
 :imagesdir: ./media/
 
 
-Cloud Managerは、オンプレミス環境でEシリーズストレージシステムを検出できます。Cloud ManagerにEシリーズシステムを追加すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。
+BlueXPでは、オンプレミス環境でEシリーズストレージシステムを検出できます。BlueXPにEシリーズシステムを追加することで、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。
 
 .必要なもの
 * クラウドプロバイダまたはオンプレミスにインストールされ、Eシリーズストレージシステムへのネットワーク接続を備えたコネクタ。
@@ -25,6 +25,7 @@ https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html[
 
 
 .手順
+. ナビゲーションメニューから、*ストレージ>キャンバス*を選択します。
 . キャンバスで、*作業環境の追加*をクリックし、*オンプレミス*を選択します。
 . [* E-Series *（Eシリーズ*）]を選択し、[* Next（次へ）]をクリックし
 . プロンプトが表示されたら、コネクタを作成します。
@@ -37,6 +38,6 @@ image:screenshot-cluster-details.png["Eシリーズのクラスタの詳細ペ�
 
 
 
-Cloud ManagerはEシリーズストレージシステムを検出し、キャンバスに作業環境として追加します。
+Blue XPはEシリーズストレージシステムを検出し、キャンバスに作業環境として追加します。
 
-image:screenshot-canvas.png["Cloud Manager Canvas上のEシリーズ作業環境を示すスクリーンショット。"]
+image:screenshot-canvas.png["BlueXP Canvas上のEシリーズの作業環境を示すスクリーンショット。"]

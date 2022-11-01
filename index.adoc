@@ -2,8 +2,8 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: Discover your E-Series storage systems through Cloud Manager to get a complete view of data across your hybrid multicloud. 
-summary: Cloud Managerを使用してEシリーズストレージシステムを検出し、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。 
+lead: 'Discover your E-Series storage systems through BlueXP (formerly Cloud Manager) to get a complete view of data across your hybrid multicloud.' 
+summary: BlueXP（旧Cloud Manager）を使用してEシリーズストレージシステムを検出し、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。 
 ---
 = E シリーズのドキュメント
 :hardbreaks:

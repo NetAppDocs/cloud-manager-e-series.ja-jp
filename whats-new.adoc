@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: whats-new.html 
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, e-series' 
-summary: Cloud ManagerでのEシリーズシステムの管理に関する新機能について説明します。 
+summary: BlueXPでEシリーズシステムを管理する新機能について説明します。 
 ---
 = Eシリーズ管理の新機能
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud ManagerでのEシリーズシステムの管理に関する新機
 
 
 [role="lead"]
-Cloud ManagerでのEシリーズシステムの管理に関する新機能について説明します。
+BlueXP（旧Cloud Manager）でEシリーズシステムを管理するための新機能について説明します。
 
 
 
@@ -24,4 +24,4 @@ Cloud ManagerでのEシリーズシステムの管理に関する新機能につ
 
 === Eシリーズのサポート
 
-Eシリーズストレージシステムは、Cloud Managerから直接検出できるようになりました。Eシリーズシステムを検出すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。
+Eシリーズストレージシステムは、BlueXPから直接検出できるようになりました。Eシリーズシステムを検出すると、ハイブリッドマルチクラウド全体のデータを包括的に把握できます。
