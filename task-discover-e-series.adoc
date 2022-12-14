@@ -38,6 +38,7 @@ image:screenshot-cluster-details.png["Eシリーズのクラスタの詳細ペ�
 
 
 
+.結果
 Blue XPはEシリーズストレージシステムを検出し、キャンバスに作業環境として追加します。
 
 image:screenshot-canvas.png["BlueXP Canvas上のEシリーズの作業環境を示すスクリーンショット。"]
